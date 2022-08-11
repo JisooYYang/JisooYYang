@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 <h2>하이퍼링크</h2>
 <p><a href="http://www,naver.com">Naver</a></p>
 
-<img src="img.shields.io/badge/홍길동-000000? style=Baidu&logo=&logoColor=#FF9900">
+<img src="http://img.shields.io/badge/홍길동-000000? style=Baidu&logo=&logoColor=#FF9900">
