@@ -73,9 +73,14 @@ Here are some ideas to get you started:
  </a>
 </p>
 
+<!-- 뱃지 등록하기 -->
 <img src="http://img.shields.io/badge/홍길동-000000?style=badge&logo=Badoo&logoColor=FF9900">
 <img src="http://img.shields.io/badge/홍길동-000000?style=for-the-badge&logo=Badoo&logoColor=FF9900">
 <img src="http://img.shields.io/badge/홍길동-000000?style=plastic&logo=Badoo&logoColor=FF9900">
 <img src="http://img.shields.io/badge/홍길동-000000?style=flat&logo=Badoo&logoColor=FF9900">
 <img src="http://img.shields.io/badge/홍길동-000000?style=flat-square&logo=Badoo&logoColor=FF9900">
 <img src="http://img.shields.io/badge/홍길동-000000?style=social&logo=Badoo&logoColor=FF9900">
+
+<!-- 깃허브 상태(스탯-step) 등록하기 -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooYYang&show_icons=true&theme=radical)
