@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 <p>
  <a href="http://daum.net">
  <img src="http://49.142.157.251:9090/javagreenS_yjs/images/main_cambridge.mp4" />
+ </a>
 </p>
 
 <h1><img src="http://img.shields.io/badge/홍길동-000000?style=badge&logo=Badoo&logoColor=FF9900"></h1>
