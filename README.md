@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p>
  <a href="http://daum.net">
- <img src="http://49.142.157.251:9090/javagreenS_yjs/images/main_cambridge.mp4" />
+ <img src="http://49.142.157.251:9090/javagreenS_lhs/banner/20226810318487_%EC%95%84%EC%9D%B4%EC%9C%A0%20%EB%B8%94%EB%A3%A8%EB%B0%8D%20PC%20%EB%B0%B0%EA%B2%BD%ED%99%94%EB%A9%B4%20037.jpg" />
  </a>
 </p>
 
