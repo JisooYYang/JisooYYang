@@ -67,4 +67,9 @@ Here are some ideas to get you started:
 <h2>하이퍼링크</h2>
 <p><a href="http://www,naver.com">Naver</a></p>
 
+<p>
+ <a href="http://daum.net">
+ <img src="http://49.142.157.251:9090/javagreenS_yjs/images/main_cambridge.mp4" />
+</p>
+
 <h1><img src="http://img.shields.io/badge/홍길동-000000?style=badge&logo=Badoo&logoColor=FF9900"></h1>
