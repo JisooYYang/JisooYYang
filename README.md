@@ -73,4 +73,9 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-<h1><img src="http://img.shields.io/badge/홍길동-000000?style=badge&logo=Badoo&logoColor=FF9900"></h1>
+<img src="http://img.shields.io/badge/홍길동-000000?style=badge&logo=Badoo&logoColor=FF9900">
+<img src="http://img.shields.io/badge/홍길동-000000?style=for-the-badge&logo=Badoo&logoColor=FF9900">
+<img src="http://img.shields.io/badge/홍길동-000000?style=plastic&logo=Badoo&logoColor=FF9900">
+<img src="http://img.shields.io/badge/홍길동-000000?style=flat&logo=Badoo&logoColor=FF9900">
+<img src="http://img.shields.io/badge/홍길동-000000?style=flat-square&logo=Badoo&logoColor=FF9900">
+<img src="http://img.shields.io/badge/홍길동-000000?style=social&logo=Badoo&logoColor=FF9900">
